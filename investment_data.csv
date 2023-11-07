@@ -1,0 +1,1001 @@
+Name,Type,CurrentPrice,RiskLevel,ExpectedReturn,CorrelationWithMarket
+Bitcoin,MutualFund,1403.42,Medium,5.63,0.12
+Tata Steel,MutualFund,509.58,High,15.1,-0.26
+Infosys,Forex,66.0,High,11.82,-0.82
+HDFC Equity Fund,Bond,789.65,Low,2.15,0.7
+JPYINR,Commodities,1178.89,Low,3.22,-0.38
+Tata Steel,Forex,53.9,Low,4.63,-0.94
+USDINR,Bond,1124.16,Low,2.16,-0.18
+Infosys,Crypto,567264.27,Low,3.87,0.13
+JPYINR,Crypto,1989356.26,High,12.71,-0.86
+HDFC Equity Fund,Forex,78.74,Medium,6.75,0.04
+10Yr Indian Govt Bond Variant 1,Commodities,1130.6,High,13.95,0.57
+Tata Steel Variant 1,Forex,53.98,Medium,6.85,-0.21
+SBI Bluechip Fund Variant 1,Bond,545.88,High,18.31,0.5
+Gold Variant 1,Bond,599.09,Low,3.78,0.57
+Infosys Variant 1,Stock,1434.41,Medium,8.66,0.4
+USDINR Variant 1,Bond,1962.44,High,10.06,0.57
+Tata Steel Variant 1,Bond,1003.74,Low,4.92,-0.79
+Tata Steel Variant 1,Commodities,1033.19,High,12.07,0.02
+JPYINR Variant 1,Stock,1138.41,Low,2.5,0.5
+Tata Steel Variant 1,Crypto,2742988.32,Medium,6.4,0.16
+10Yr Indian Govt Bond Variant 2,Forex,58.32,High,19.63,-0.25
+Gold Variant 2,MutualFund,742.12,High,10.78,0.75
+Gold Variant 2,Forex,59.28,Medium,7.64,-0.39
+Oil Variant 2,MutualFund,1498.62,Medium,9.69,-0.9
+Bitcoin Variant 2,Bond,505.6,High,13.82,0.31
+Tata Steel Variant 2,Commodities,1205.58,Medium,5.38,-0.84
+Bitcoin Variant 2,Forex,67.0,Low,3.2,-0.23
+Tata Steel Variant 2,Stock,1903.13,Medium,8.5,0.94
+HDFC Equity Fund Variant 2,MutualFund,1276.76,Medium,8.18,-0.56
+10Yr Indian Govt Bond Variant 2,Bond,899.26,Medium,5.75,0.66
+JPYINR Variant 3,Forex,84.08,Low,2.09,-0.24
+HDFC Equity Fund Variant 3,Crypto,1507074.25,High,12.07,0.22
+JPYINR Variant 3,Commodities,1524.08,Medium,7.02,0.12
+10Yr Indian Govt Bond Variant 3,Stock,1741.88,High,12.37,-0.35
+Gold Variant 3,Bond,1186.96,Low,2.82,-0.62
+HDFC Equity Fund Variant 3,MutualFund,1272.95,Low,3.69,0.68
+Oil Variant 3,Crypto,1883713.43,Low,3.8,-0.66
+SBI Bluechip Fund Variant 3,Crypto,1591210.58,High,11.15,-0.79
+SBI Bluechip Fund Variant 3,Commodities,631.78,Low,4.74,0.01
+Bitcoin Variant 3,Forex,92.09,High,12.38,-0.59
+Bitcoin Variant 4,Stock,851.52,Low,3.44,-0.41
+Tata Steel Variant 4,Bond,1923.14,Medium,6.95,0.1
+HDFC Equity Fund Variant 4,Stock,938.73,High,12.46,0.16
+Oil Variant 4,MutualFund,1227.72,High,17.66,0.42
+USDINR Variant 4,Forex,95.11,Low,2.0,0.64
+JPYINR Variant 4,Forex,82.8,Medium,6.43,-0.6
+Tata Steel Variant 4,MutualFund,790.44,Medium,5.85,-0.69
+Infosys Variant 4,MutualFund,1448.75,Medium,8.62,-0.25
+HDFC Equity Fund Variant 4,MutualFund,1988.01,Medium,7.27,-0.09
+Bitcoin Variant 4,MutualFund,1385.61,Medium,8.5,0.69
+USDINR Variant 5,MutualFund,1098.47,Medium,7.67,0.59
+Tata Steel Variant 5,Bond,1248.47,Medium,8.48,0.07
+Gold Variant 5,Forex,74.51,Low,4.96,0.33
+Bitcoin Variant 5,Commodities,1842.43,High,10.52,0.89
+Gold Variant 5,Bond,1116.12,Low,3.81,0.53
+HDFC Equity Fund Variant 5,Stock,1433.1,Medium,5.22,0.42
+Bitcoin Variant 5,Forex,58.13,High,15.62,-0.67
+HDFC Equity Fund Variant 5,MutualFund,1776.93,Medium,7.51,0.03
+JPYINR Variant 5,MutualFund,1031.83,Low,3.23,-0.78
+HDFC Equity Fund Variant 5,Commodities,1727.47,Low,3.69,-0.41
+Tata Steel Variant 6,Commodities,948.33,Medium,9.18,0.93
+Tata Steel Variant 6,Stock,1138.73,Medium,6.57,0.12
+Bitcoin Variant 6,MutualFund,929.44,High,12.68,-0.99
+JPYINR Variant 6,Commodities,1979.83,High,14.94,-0.47
+HDFC Equity Fund Variant 6,MutualFund,990.97,Medium,5.29,0.72
+10Yr Indian Govt Bond Variant 6,Forex,61.89,Medium,7.05,0.86
+Bitcoin Variant 6,Bond,1187.64,High,16.42,-0.76
+Infosys Variant 6,Stock,712.65,Low,3.56,0.63
+Oil Variant 6,Commodities,1160.12,Medium,6.67,0.38
+Gold Variant 6,Forex,80.46,Low,4.38,-0.04
+Tata Steel Variant 7,Commodities,922.75,Low,3.18,0.05
+Infosys Variant 7,Forex,60.48,High,13.32,-0.74
+Infosys Variant 7,MutualFund,605.96,Medium,6.36,0.77
+HDFC Equity Fund Variant 7,Crypto,2621974.81,Low,4.15,0.89
+Gold Variant 7,Crypto,2092649.33,High,12.96,-0.09
+JPYINR Variant 7,Stock,1103.77,Low,3.15,0.26
+10Yr Indian Govt Bond Variant 7,Forex,73.67,High,11.18,0.75
+JPYINR Variant 7,Commodities,1480.46,High,15.64,-0.24
+Gold Variant 7,Commodities,1164.69,Low,3.31,-0.66
+Infosys Variant 7,Commodities,1754.37,Medium,9.61,0.76
+JPYINR Variant 8,Forex,87.97,Medium,7.61,0.55
+Oil Variant 8,Crypto,2524417.91,Medium,5.14,-0.71
+JPYINR Variant 8,Forex,56.81,High,18.7,0.0
+10Yr Indian Govt Bond Variant 8,MutualFund,816.63,High,18.23,0.24
+JPYINR Variant 8,Crypto,1796315.93,High,17.16,-0.91
+HDFC Equity Fund Variant 8,Forex,69.05,Low,4.33,0.73
+SBI Bluechip Fund Variant 8,Stock,673.54,Low,2.03,0.89
+Infosys Variant 8,Bond,1017.74,Low,4.97,0.98
+JPYINR Variant 8,MutualFund,1717.78,Low,3.12,0.23
+Tata Steel Variant 8,Commodities,773.88,Medium,8.48,-0.27
+HDFC Equity Fund Variant 9,Bond,1841.85,Medium,8.84,0.49
+Infosys Variant 9,Stock,880.83,Low,3.11,-0.64
+HDFC Equity Fund Variant 9,Forex,67.11,Medium,6.84,0.02
+HDFC Equity Fund Variant 9,Bond,1930.84,Low,4.57,0.95
+Infosys Variant 9,Commodities,998.05,High,19.21,0.72
+Oil Variant 9,Bond,1152.97,Medium,8.84,0.73
+USDINR Variant 9,MutualFund,767.95,Medium,8.85,0.62
+Bitcoin Variant 9,Commodities,1979.25,Medium,8.12,-0.34
+USDINR Variant 9,Stock,1496.41,Medium,6.82,-0.05
+Tata Steel Variant 9,Commodities,559.81,High,15.36,-0.97
+Infosys Variant 10,Bond,627.27,High,12.19,0.2
+Oil Variant 10,Bond,971.28,High,13.27,-0.35
+JPYINR Variant 10,MutualFund,1443.07,High,10.27,-0.94
+JPYINR Variant 10,Commodities,1553.42,High,13.32,0.8
+HDFC Equity Fund Variant 10,Crypto,2993495.46,Low,3.0,-0.84
+Gold Variant 10,Commodities,706.78,High,17.36,0.92
+10Yr Indian Govt Bond Variant 10,MutualFund,856.12,Low,2.19,0.66
+USDINR Variant 10,MutualFund,680.71,Medium,5.7,0.41
+10Yr Indian Govt Bond Variant 10,Stock,754.07,High,11.94,-0.25
+Infosys Variant 10,MutualFund,1010.85,High,17.7,-0.26
+SBI Bluechip Fund Variant 11,MutualFund,935.42,Low,4.17,-0.18
+Bitcoin Variant 11,Stock,1855.92,Low,3.42,0.62
+Tata Steel Variant 11,Forex,54.1,High,15.1,0.48
+USDINR Variant 11,Crypto,2048512.41,High,15.42,-0.68
+10Yr Indian Govt Bond Variant 11,Stock,509.34,Medium,8.18,-0.99
+Bitcoin Variant 11,Commodities,1387.78,Medium,9.92,-0.46
+JPYINR Variant 11,Commodities,1217.64,Medium,8.25,-0.91
+JPYINR Variant 11,Forex,59.03,Medium,8.51,0.33
+10Yr Indian Govt Bond Variant 11,MutualFund,1786.81,High,11.66,-0.97
+JPYINR Variant 11,Commodities,815.56,High,15.84,0.19
+JPYINR Variant 12,MutualFund,690.07,Medium,7.09,-0.27
+10Yr Indian Govt Bond Variant 12,Stock,1459.25,Low,3.64,0.82
+USDINR Variant 12,Stock,1164.64,Low,4.15,0.99
+HDFC Equity Fund Variant 12,Crypto,1646648.43,Medium,6.99,0.04
+10Yr Indian Govt Bond Variant 12,Commodities,568.11,Medium,9.25,-0.36
+HDFC Equity Fund Variant 12,Forex,54.94,Medium,8.14,-1.0
+Bitcoin Variant 12,Bond,1771.63,Medium,7.83,0.26
+Infosys Variant 12,Forex,70.51,High,15.48,-0.04
+SBI Bluechip Fund Variant 12,MutualFund,693.06,Medium,6.49,0.02
+HDFC Equity Fund Variant 12,Crypto,919656.36,Medium,9.5,0.65
+HDFC Equity Fund Variant 13,Bond,1863.79,High,17.08,-0.97
+USDINR Variant 13,Bond,1234.57,Medium,9.89,-0.99
+SBI Bluechip Fund Variant 13,Bond,1160.0,Low,4.81,-0.5
+Oil Variant 13,Crypto,1864372.23,Low,2.15,0.84
+Oil Variant 13,MutualFund,1900.33,Medium,7.19,-0.21
+SBI Bluechip Fund Variant 13,Bond,1736.43,High,13.26,-0.62
+USDINR Variant 13,Bond,512.28,Low,3.66,0.58
+USDINR Variant 13,Forex,87.91,Low,2.93,0.68
+HDFC Equity Fund Variant 13,Forex,97.39,Medium,6.41,0.66
+USDINR Variant 13,Crypto,2433942.74,Medium,8.02,0.32
+Bitcoin Variant 14,Bond,1261.77,Medium,7.69,-0.85
+Tata Steel Variant 14,Crypto,1595730.33,Medium,5.1,-0.69
+HDFC Equity Fund Variant 14,MutualFund,1050.34,High,14.36,-0.82
+Infosys Variant 14,MutualFund,746.92,High,15.93,0.76
+HDFC Equity Fund Variant 14,Commodities,1923.96,Medium,7.28,-0.44
+Oil Variant 14,MutualFund,1979.64,High,13.05,0.06
+JPYINR Variant 14,MutualFund,1361.22,High,15.1,0.41
+Oil Variant 14,Bond,1215.87,High,15.28,-0.81
+Bitcoin Variant 14,Crypto,2808042.4,Low,4.99,0.47
+Bitcoin Variant 14,Crypto,1891336.6,Medium,5.95,-0.31
+JPYINR Variant 15,Bond,1457.52,High,19.59,0.53
+JPYINR Variant 15,Forex,86.9,High,10.36,0.24
+USDINR Variant 15,MutualFund,1682.18,Medium,9.94,0.97
+USDINR Variant 15,Forex,57.52,High,15.62,0.02
+JPYINR Variant 15,Commodities,1175.17,Low,3.34,0.66
+SBI Bluechip Fund Variant 15,Bond,1672.33,High,10.82,-0.3
+SBI Bluechip Fund Variant 15,Bond,1969.0,High,12.77,-0.07
+Oil Variant 15,Crypto,2813987.18,High,15.39,-0.94
+HDFC Equity Fund Variant 15,Bond,635.64,Low,2.93,0.12
+Bitcoin Variant 15,Commodities,1183.94,Low,2.59,0.66
+HDFC Equity Fund Variant 16,Stock,1278.97,Low,2.38,0.61
+Infosys Variant 16,MutualFund,943.91,Medium,5.37,0.56
+Infosys Variant 16,Stock,1443.93,High,13.18,0.5
+Gold Variant 16,Bond,1437.62,Low,2.34,-0.36
+Infosys Variant 16,Bond,1682.73,Low,4.34,-0.41
+USDINR Variant 16,MutualFund,1880.56,High,19.98,-0.18
+10Yr Indian Govt Bond Variant 16,Forex,65.57,Low,4.07,-0.96
+USDINR Variant 16,Forex,92.43,Medium,8.31,-0.16
+Bitcoin Variant 16,MutualFund,679.49,Low,2.9,0.42
+HDFC Equity Fund Variant 16,Stock,1817.33,Low,4.39,-0.5
+Infosys Variant 17,MutualFund,962.69,High,18.03,-0.45
+JPYINR Variant 17,Crypto,2057555.78,Low,3.84,-0.63
+HDFC Equity Fund Variant 17,Commodities,1258.04,High,15.75,-0.81
+USDINR Variant 17,Bond,1250.26,Low,2.33,0.4
+10Yr Indian Govt Bond Variant 17,Stock,1679.37,Low,3.36,0.72
+Infosys Variant 17,Crypto,1701351.64,High,15.27,-0.46
+SBI Bluechip Fund Variant 17,Crypto,2534712.23,High,15.9,-0.54
+HDFC Equity Fund Variant 17,Stock,1545.03,Low,4.82,-0.13
+Gold Variant 17,Stock,1184.32,High,12.62,-0.6
+10Yr Indian Govt Bond Variant 17,MutualFund,1796.87,Medium,8.92,0.17
+HDFC Equity Fund Variant 18,MutualFund,1992.04,Medium,7.83,0.5
+Oil Variant 18,Forex,72.28,High,18.31,0.53
+Infosys Variant 18,Bond,742.41,Medium,9.43,-0.38
+Tata Steel Variant 18,Commodities,1538.35,Low,4.1,-0.74
+Infosys Variant 18,MutualFund,1660.53,Low,4.45,-0.36
+Infosys Variant 18,Crypto,2976638.67,Medium,7.26,-0.84
+Tata Steel Variant 18,Commodities,1087.39,Medium,8.6,-0.53
+Infosys Variant 18,Bond,1386.89,Low,4.93,-0.14
+Oil Variant 18,Commodities,1683.97,Medium,7.23,-0.05
+USDINR Variant 18,Commodities,1185.12,Medium,7.91,0.97
+SBI Bluechip Fund Variant 19,Bond,999.14,High,10.95,0.84
+Oil Variant 19,Crypto,902918.96,Low,2.0,0.78
+JPYINR Variant 19,Forex,73.96,High,16.5,-1.0
+SBI Bluechip Fund Variant 19,Bond,1849.5,High,11.59,-0.01
+10Yr Indian Govt Bond Variant 19,Bond,1126.77,Low,4.38,-0.22
+USDINR Variant 19,MutualFund,1215.51,Low,2.04,0.06
+USDINR Variant 19,Stock,1293.34,Medium,8.49,-0.36
+Bitcoin Variant 19,MutualFund,1809.03,Medium,6.57,-0.2
+USDINR Variant 19,Bond,970.32,High,10.56,-0.28
+HDFC Equity Fund Variant 19,Commodities,1037.71,Low,2.2,-0.34
+Infosys Variant 20,Crypto,1775182.53,High,10.49,0.96
+10Yr Indian Govt Bond Variant 20,Bond,694.76,Low,3.88,0.42
+Gold Variant 20,Bond,1065.67,High,19.25,-0.15
+SBI Bluechip Fund Variant 20,Stock,1102.67,Medium,8.55,0.33
+USDINR Variant 20,Commodities,880.33,Medium,8.48,0.74
+Gold Variant 20,Crypto,1380030.2,Medium,8.91,-0.05
+HDFC Equity Fund Variant 20,Crypto,1656871.62,Low,3.1,-0.8
+HDFC Equity Fund Variant 20,Commodities,1628.65,High,12.22,-0.5
+Infosys Variant 20,Commodities,1497.0,Low,4.03,0.78
+Oil Variant 20,Commodities,1214.89,Low,2.63,0.99
+SBI Bluechip Fund Variant 21,Bond,1434.78,Low,3.71,-0.05
+JPYINR Variant 21,Commodities,1142.52,High,18.8,0.49
+HDFC Equity Fund Variant 21,Bond,1669.35,Low,2.62,0.34
+Oil Variant 21,MutualFund,1171.16,Medium,7.72,-0.75
+SBI Bluechip Fund Variant 21,Bond,545.19,Low,2.54,-0.2
+10Yr Indian Govt Bond Variant 21,Commodities,1739.21,Medium,8.1,-0.78
+Tata Steel Variant 21,Crypto,2088456.62,Low,2.02,-0.13
+JPYINR Variant 21,Crypto,606245.21,High,13.76,-0.81
+Bitcoin Variant 21,Bond,1683.51,Low,4.46,-0.79
+SBI Bluechip Fund Variant 21,Crypto,1570056.67,Medium,9.26,0.0
+HDFC Equity Fund Variant 22,MutualFund,578.13,Low,3.67,-0.2
+SBI Bluechip Fund Variant 22,Commodities,1849.69,Low,2.11,-0.86
+Gold Variant 22,Forex,63.62,Low,2.17,-0.99
+USDINR Variant 22,MutualFund,1196.4,Low,3.37,0.18
+Bitcoin Variant 22,Crypto,951015.69,High,16.51,0.16
+JPYINR Variant 22,Bond,1552.19,Medium,9.33,-0.06
+USDINR Variant 22,Crypto,1201682.39,Low,4.08,-0.7
+JPYINR Variant 22,Stock,1775.38,Low,2.97,-0.64
+10Yr Indian Govt Bond Variant 22,MutualFund,1975.91,Medium,5.1,0.97
+USDINR Variant 22,Crypto,1384063.59,Low,2.99,0.31
+JPYINR Variant 23,Commodities,1320.65,High,13.51,-0.8
+Bitcoin Variant 23,Forex,59.62,Medium,9.42,0.35
+USDINR Variant 23,MutualFund,1282.8,Medium,7.7,0.13
+USDINR Variant 23,Forex,56.22,Medium,9.05,0.2
+Tata Steel Variant 23,Commodities,816.4,Medium,6.68,-0.6
+USDINR Variant 23,MutualFund,1791.61,Low,2.47,-0.49
+Oil Variant 23,Stock,773.6,Medium,6.41,-0.12
+HDFC Equity Fund Variant 23,Bond,1463.76,Low,2.37,-0.37
+10Yr Indian Govt Bond Variant 23,Crypto,2234301.82,Medium,6.75,-0.43
+Tata Steel Variant 23,Bond,790.85,Medium,7.86,-0.3
+Tata Steel Variant 24,Bond,1194.96,High,17.05,-0.19
+JPYINR Variant 24,Bond,833.91,Low,3.4,0.54
+JPYINR Variant 24,Crypto,2847503.35,Low,2.1,-0.19
+HDFC Equity Fund Variant 24,Bond,522.51,Low,3.76,0.83
+SBI Bluechip Fund Variant 24,Forex,96.03,Medium,8.79,-0.95
+SBI Bluechip Fund Variant 24,Stock,1479.59,Low,4.37,-0.36
+SBI Bluechip Fund Variant 24,Commodities,1570.4,Medium,6.71,0.56
+USDINR Variant 24,MutualFund,860.92,Low,4.9,-0.42
+Tata Steel Variant 24,MutualFund,803.72,Medium,7.72,0.09
+10Yr Indian Govt Bond Variant 24,Crypto,1386032.58,Medium,8.07,-0.67
+Oil Variant 25,MutualFund,1682.13,High,10.07,-0.3
+USDINR Variant 25,Forex,55.3,Low,3.88,-0.46
+SBI Bluechip Fund Variant 25,Bond,1648.92,High,16.64,0.62
+Gold Variant 25,MutualFund,1646.45,Low,3.26,0.13
+Bitcoin Variant 25,Forex,81.1,Medium,8.98,-0.79
+SBI Bluechip Fund Variant 25,Forex,70.05,Low,3.58,-0.97
+Oil Variant 25,Crypto,732961.44,Medium,6.23,-0.51
+SBI Bluechip Fund Variant 25,Stock,1996.44,Medium,9.0,0.51
+Tata Steel Variant 25,Commodities,1163.84,High,16.21,-0.15
+HDFC Equity Fund Variant 25,Stock,1558.11,High,12.62,0.83
+Infosys Variant 26,Forex,52.19,High,15.92,-0.15
+HDFC Equity Fund Variant 26,Forex,63.79,Low,4.77,0.23
+10Yr Indian Govt Bond Variant 26,Crypto,2581054.85,High,14.31,0.3
+Gold Variant 26,Bond,1458.74,High,12.19,-0.58
+HDFC Equity Fund Variant 26,Bond,909.2,Low,2.92,-0.1
+USDINR Variant 26,Bond,1351.31,High,11.92,1.0
+JPYINR Variant 26,Bond,671.89,High,18.29,-0.21
+JPYINR Variant 26,Crypto,1608148.6,High,10.73,0.56
+Bitcoin Variant 26,Forex,53.3,Medium,9.88,-0.47
+Bitcoin Variant 26,MutualFund,1967.32,Medium,6.99,-0.99
+JPYINR Variant 27,MutualFund,1818.39,Low,2.45,0.12
+Bitcoin Variant 27,Bond,1624.71,Low,3.72,-0.35
+HDFC Equity Fund Variant 27,Commodities,517.88,High,12.18,-0.18
+Oil Variant 27,Stock,837.23,Low,4.21,0.22
+Gold Variant 27,MutualFund,1220.46,Low,2.84,-0.62
+Infosys Variant 27,Forex,75.18,High,19.42,0.76
+SBI Bluechip Fund Variant 27,Forex,77.91,Low,2.4,0.52
+Bitcoin Variant 27,Bond,537.34,High,15.19,0.49
+Bitcoin Variant 27,Stock,1893.64,Low,2.63,-0.12
+Tata Steel Variant 27,MutualFund,523.69,High,16.25,0.72
+HDFC Equity Fund Variant 28,Bond,1941.23,Low,3.22,0.79
+Bitcoin Variant 28,Stock,1280.89,Low,4.08,-0.17
+Bitcoin Variant 28,Stock,567.9,Medium,8.09,0.23
+JPYINR Variant 28,Forex,78.49,Low,2.6,0.14
+USDINR Variant 28,Stock,1843.5,High,11.92,0.51
+USDINR Variant 28,Forex,92.75,High,12.15,0.78
+Oil Variant 28,Forex,92.55,Low,3.01,0.25
+SBI Bluechip Fund Variant 28,Stock,1601.55,Low,2.15,-0.73
+Gold Variant 28,MutualFund,1891.97,High,12.37,0.99
+HDFC Equity Fund Variant 28,Bond,894.84,Low,3.77,0.44
+Gold Variant 29,Bond,1804.91,High,16.31,0.26
+10Yr Indian Govt Bond Variant 29,Crypto,2804029.4,Low,2.5,0.47
+Tata Steel Variant 29,Crypto,2194507.33,Medium,6.09,-0.3
+USDINR Variant 29,Crypto,855007.47,Medium,7.58,1.0
+10Yr Indian Govt Bond Variant 29,Bond,912.0,High,16.08,-0.49
+USDINR Variant 29,Forex,77.43,Low,3.58,0.01
+SBI Bluechip Fund Variant 29,Crypto,2195644.87,Low,4.62,-0.18
+Oil Variant 29,Forex,82.16,High,17.07,-0.16
+10Yr Indian Govt Bond Variant 29,Commodities,1842.68,Low,3.31,0.72
+HDFC Equity Fund Variant 29,Bond,1477.08,Low,3.82,0.53
+USDINR Variant 30,Stock,569.29,Low,4.52,-0.5
+10Yr Indian Govt Bond Variant 30,MutualFund,1027.09,Low,3.9,0.74
+Oil Variant 30,Commodities,1815.85,Medium,5.88,-0.1
+Gold Variant 30,Bond,1134.54,Medium,7.16,-0.73
+Gold Variant 30,Commodities,844.09,Low,3.38,-0.05
+Tata Steel Variant 30,Stock,1224.29,Low,3.28,-0.84
+HDFC Equity Fund Variant 30,Stock,1941.86,Medium,7.53,-0.11
+Infosys Variant 30,Forex,52.82,Low,3.97,-0.96
+JPYINR Variant 30,Crypto,1961493.31,Medium,7.92,-0.72
+Oil Variant 30,Crypto,2278335.78,Low,2.17,-0.68
+HDFC Equity Fund Variant 31,Stock,1059.45,Medium,8.28,0.01
+JPYINR Variant 31,MutualFund,1636.94,Medium,5.52,0.77
+Gold Variant 31,Commodities,535.2,Medium,7.82,0.63
+Oil Variant 31,Commodities,579.75,Low,4.01,0.17
+Infosys Variant 31,Bond,1195.67,High,11.06,-0.98
+Oil Variant 31,Stock,896.78,Low,3.96,-0.82
+HDFC Equity Fund Variant 31,Stock,1867.05,High,14.02,0.11
+HDFC Equity Fund Variant 31,Commodities,1446.91,High,18.64,0.12
+10Yr Indian Govt Bond Variant 31,Bond,1618.83,High,16.52,-0.29
+HDFC Equity Fund Variant 31,Bond,1120.75,Medium,9.57,0.66
+Oil Variant 32,Forex,92.25,Low,3.38,0.26
+10Yr Indian Govt Bond Variant 32,Forex,64.96,Low,2.11,-0.74
+USDINR Variant 32,Forex,50.76,High,13.58,-0.34
+HDFC Equity Fund Variant 32,Forex,83.6,Medium,6.4,0.18
+Oil Variant 32,MutualFund,1894.94,High,10.36,-0.1
+SBI Bluechip Fund Variant 32,Commodities,1006.7,High,19.11,0.95
+HDFC Equity Fund Variant 32,Crypto,1149313.89,High,19.02,0.16
+USDINR Variant 32,Stock,1159.51,High,18.98,-0.54
+Oil Variant 32,Commodities,916.33,Low,4.6,0.26
+Bitcoin Variant 32,Stock,608.19,High,13.49,-0.52
+JPYINR Variant 33,Commodities,628.16,Low,2.12,0.95
+10Yr Indian Govt Bond Variant 33,Bond,761.99,High,16.51,0.96
+Tata Steel Variant 33,Bond,1538.14,Low,4.06,0.07
+Gold Variant 33,Stock,620.57,High,19.03,-0.07
+Oil Variant 33,Crypto,1827817.44,Medium,8.72,0.98
+Gold Variant 33,MutualFund,1041.48,Medium,6.13,-0.95
+JPYINR Variant 33,Crypto,1936217.68,High,16.02,-0.78
+SBI Bluechip Fund Variant 33,Crypto,2247386.84,High,13.15,0.17
+Infosys Variant 33,Commodities,1197.61,Medium,7.83,0.92
+Tata Steel Variant 33,Crypto,2162487.33,High,12.69,-1.0
+Gold Variant 34,Forex,81.02,Low,4.39,0.37
+Oil Variant 34,MutualFund,1412.83,Low,4.76,-0.9
+USDINR Variant 34,Bond,1819.79,High,18.39,-0.48
+SBI Bluechip Fund Variant 34,Commodities,771.04,High,18.35,0.2
+USDINR Variant 34,Commodities,503.66,Medium,6.96,0.3
+SBI Bluechip Fund Variant 34,Commodities,1799.4,Low,2.41,0.71
+JPYINR Variant 34,Bond,1477.09,Low,2.28,0.72
+SBI Bluechip Fund Variant 34,Forex,93.24,Medium,7.31,0.49
+Oil Variant 34,Forex,55.37,High,17.24,0.96
+USDINR Variant 34,MutualFund,1160.98,High,13.38,0.25
+Gold Variant 35,Commodities,698.01,Medium,9.65,0.99
+Tata Steel Variant 35,Stock,580.29,Medium,5.07,0.77
+HDFC Equity Fund Variant 35,MutualFund,1214.8,Medium,8.58,0.29
+Infosys Variant 35,Crypto,1298994.21,Low,2.03,-0.18
+SBI Bluechip Fund Variant 35,Stock,684.79,Low,2.98,0.89
+10Yr Indian Govt Bond Variant 35,Bond,880.21,High,11.76,0.29
+10Yr Indian Govt Bond Variant 35,Crypto,2449822.42,High,13.09,-0.0
+10Yr Indian Govt Bond Variant 35,Forex,67.32,Medium,9.46,-0.45
+10Yr Indian Govt Bond Variant 35,Forex,66.9,Medium,9.35,-0.56
+10Yr Indian Govt Bond Variant 35,Crypto,510281.08,Low,2.35,0.93
+Gold Variant 36,MutualFund,1319.46,Low,4.91,0.58
+Oil Variant 36,Bond,1176.29,Medium,9.17,-0.67
+SBI Bluechip Fund Variant 36,Forex,69.42,High,14.67,0.81
+Tata Steel Variant 36,Commodities,884.24,Low,3.09,-0.93
+Bitcoin Variant 36,Bond,1944.56,High,13.82,0.49
+USDINR Variant 36,MutualFund,1959.3,Medium,5.18,-0.71
+Oil Variant 36,MutualFund,829.97,High,14.12,-0.64
+10Yr Indian Govt Bond Variant 36,Bond,912.3,Medium,5.87,-0.9
+JPYINR Variant 36,Crypto,1336877.74,Medium,6.29,-0.12
+USDINR Variant 36,Bond,1570.6,Low,3.2,-0.48
+Oil Variant 37,MutualFund,512.8,Medium,9.13,0.53
+Gold Variant 37,Forex,90.22,Low,4.06,-0.06
+SBI Bluechip Fund Variant 37,Bond,1065.1,High,15.3,-0.89
+JPYINR Variant 37,MutualFund,1710.26,Medium,7.97,-0.34
+USDINR Variant 37,Crypto,1059275.38,High,17.72,0.31
+USDINR Variant 37,Stock,945.08,Low,3.0,-0.03
+Gold Variant 37,Commodities,660.09,Medium,8.87,-0.02
+Tata Steel Variant 37,Crypto,795573.12,Medium,6.12,0.34
+10Yr Indian Govt Bond Variant 37,Stock,1316.71,High,10.59,-0.23
+Gold Variant 37,Commodities,1170.53,High,19.7,-0.95
+Bitcoin Variant 38,Crypto,1912416.1,Medium,6.27,-0.97
+JPYINR Variant 38,Forex,58.94,Low,3.16,0.52
+Gold Variant 38,Bond,1318.58,Low,2.1,-0.55
+Infosys Variant 38,Crypto,2821708.93,High,19.91,-0.47
+Tata Steel Variant 38,Commodities,1565.22,Medium,5.23,-0.72
+10Yr Indian Govt Bond Variant 38,Commodities,1012.1,Medium,7.31,0.94
+Gold Variant 38,MutualFund,1672.2,Low,3.76,-0.25
+SBI Bluechip Fund Variant 38,Stock,942.42,High,17.74,0.27
+SBI Bluechip Fund Variant 38,Stock,1478.67,Medium,6.44,-0.12
+USDINR Variant 38,MutualFund,768.53,Medium,8.09,-0.84
+Oil Variant 39,Commodities,1481.68,High,11.18,-0.91
+HDFC Equity Fund Variant 39,Bond,1677.19,Low,4.45,-0.19
+Infosys Variant 39,Crypto,2764251.57,Medium,6.88,0.96
+10Yr Indian Govt Bond Variant 39,Forex,76.05,Low,3.29,0.83
+Tata Steel Variant 39,Forex,58.0,High,12.88,-0.62
+Infosys Variant 39,Bond,548.53,Medium,6.97,-0.77
+10Yr Indian Govt Bond Variant 39,MutualFund,719.75,Low,3.52,0.92
+Infosys Variant 39,Bond,1333.53,Medium,7.93,0.15
+Oil Variant 39,MutualFund,1715.34,Medium,9.78,0.61
+JPYINR Variant 39,Bond,1365.36,Low,3.59,0.07
+USDINR Variant 40,MutualFund,1908.34,High,11.55,-0.45
+Tata Steel Variant 40,MutualFund,520.57,High,10.49,0.58
+JPYINR Variant 40,Crypto,2601836.1,Medium,5.18,0.63
+Gold Variant 40,Bond,742.49,Medium,5.03,-0.22
+Infosys Variant 40,Forex,95.4,High,14.14,0.95
+JPYINR Variant 40,Commodities,1484.72,Low,2.68,-0.9
+Oil Variant 40,Bond,1724.73,Medium,7.19,0.72
+Oil Variant 40,Commodities,902.71,Low,4.86,-0.36
+Oil Variant 40,Crypto,2976715.91,Medium,5.13,0.78
+10Yr Indian Govt Bond Variant 40,Bond,1213.03,Medium,6.72,0.68
+Bitcoin Variant 41,MutualFund,601.1,Medium,8.07,-0.05
+JPYINR Variant 41,Forex,67.54,High,10.4,0.2
+Gold Variant 41,Crypto,1547725.25,Medium,5.88,0.33
+JPYINR Variant 41,Forex,75.94,Low,2.57,-0.34
+Gold Variant 41,Stock,1712.18,Medium,8.1,-0.5
+SBI Bluechip Fund Variant 41,MutualFund,710.72,Low,2.34,0.81
+USDINR Variant 41,Stock,723.0,Medium,7.92,-0.43
+Infosys Variant 41,Crypto,2895916.24,Medium,6.96,-0.28
+Tata Steel Variant 41,Forex,86.1,Medium,6.73,0.86
+10Yr Indian Govt Bond Variant 41,Crypto,2173062.53,Low,4.66,-0.18
+Gold Variant 42,Crypto,2257082.87,Low,2.5,-0.07
+10Yr Indian Govt Bond Variant 42,Crypto,2763763.64,Medium,7.88,-0.49
+JPYINR Variant 42,Commodities,1921.24,High,12.12,0.55
+SBI Bluechip Fund Variant 42,Forex,66.69,Medium,8.11,-0.02
+Gold Variant 42,Commodities,589.42,Low,2.56,0.04
+10Yr Indian Govt Bond Variant 42,Bond,1418.33,Low,3.6,-0.87
+Bitcoin Variant 42,Forex,70.03,Low,2.71,0.22
+Gold Variant 42,Commodities,1281.33,High,14.05,0.22
+HDFC Equity Fund Variant 42,Forex,85.86,Medium,5.25,0.84
+JPYINR Variant 42,Bond,751.85,Medium,6.14,0.38
+SBI Bluechip Fund Variant 43,Forex,60.22,Medium,7.08,-0.0
+Bitcoin Variant 43,MutualFund,1659.67,High,19.1,-0.14
+JPYINR Variant 43,Crypto,1241564.54,Medium,10.0,-0.38
+Oil Variant 43,Bond,1898.25,Medium,8.29,0.64
+Gold Variant 43,Stock,1205.86,Medium,8.88,-0.17
+Gold Variant 43,Crypto,2751340.64,Medium,6.85,0.32
+USDINR Variant 43,Commodities,627.48,Low,2.5,0.8
+Infosys Variant 43,Stock,607.32,High,17.99,0.13
+SBI Bluechip Fund Variant 43,Bond,1239.52,Low,3.11,-0.78
+Infosys Variant 43,Crypto,519214.61,High,15.42,-0.97
+Infosys Variant 44,MutualFund,719.73,High,18.58,-0.87
+HDFC Equity Fund Variant 44,Forex,67.34,Low,4.08,0.35
+Bitcoin Variant 44,Forex,89.79,High,11.84,-0.82
+Infosys Variant 44,Crypto,1172165.99,High,10.17,0.7
+JPYINR Variant 44,Crypto,2519131.03,Medium,8.45,0.78
+10Yr Indian Govt Bond Variant 44,Stock,1121.77,Medium,6.98,-0.66
+SBI Bluechip Fund Variant 44,Stock,1685.84,Medium,9.55,0.38
+Gold Variant 44,Commodities,1309.06,High,19.33,-0.39
+Infosys Variant 44,Stock,1064.17,High,16.94,0.29
+10Yr Indian Govt Bond Variant 44,MutualFund,999.73,Low,4.7,0.85
+SBI Bluechip Fund Variant 45,Commodities,1969.84,Low,4.01,-0.63
+Oil Variant 45,Bond,1036.1,High,13.84,0.86
+SBI Bluechip Fund Variant 45,Bond,646.11,High,11.03,0.54
+Bitcoin Variant 45,Stock,529.66,Low,2.27,0.57
+Oil Variant 45,Forex,54.72,Low,4.15,-0.92
+Gold Variant 45,Crypto,2858370.49,Medium,9.25,0.48
+Gold Variant 45,Commodities,1590.58,Medium,7.22,0.27
+Infosys Variant 45,Stock,1290.24,High,11.14,-0.18
+USDINR Variant 45,Crypto,1009253.03,Medium,8.39,0.13
+Oil Variant 45,Forex,52.46,Low,3.23,-0.47
+USDINR Variant 46,Crypto,1948865.78,Medium,9.76,0.58
+10Yr Indian Govt Bond Variant 46,MutualFund,1521.31,Medium,8.85,0.89
+JPYINR Variant 46,Crypto,2836209.67,Low,3.86,0.42
+SBI Bluechip Fund Variant 46,Commodities,1142.99,High,10.52,0.35
+Infosys Variant 46,Crypto,2637273.43,High,14.92,-0.35
+HDFC Equity Fund Variant 46,Stock,1030.72,High,12.68,-0.08
+Infosys Variant 46,Bond,1557.95,Medium,9.79,-0.72
+10Yr Indian Govt Bond Variant 46,Commodities,1061.42,High,14.49,0.39
+USDINR Variant 46,Forex,98.14,Low,4.76,0.31
+Infosys Variant 46,Crypto,2974060.08,Low,2.59,0.99
+Gold Variant 47,Forex,85.63,Low,3.18,-0.9
+Oil Variant 47,MutualFund,1170.09,High,20.0,0.15
+HDFC Equity Fund Variant 47,Forex,78.6,High,14.23,-0.7
+HDFC Equity Fund Variant 47,Commodities,609.45,High,10.15,-0.31
+Infosys Variant 47,Forex,95.93,Low,3.19,-0.89
+Gold Variant 47,Forex,89.06,Low,3.12,0.33
+JPYINR Variant 47,Bond,1548.09,Medium,7.05,0.37
+SBI Bluechip Fund Variant 47,MutualFund,691.94,Medium,9.93,-0.09
+Infosys Variant 47,MutualFund,1188.95,Low,4.08,0.21
+SBI Bluechip Fund Variant 47,Bond,519.37,Medium,9.41,-0.1
+Oil Variant 48,MutualFund,665.06,Low,4.01,0.27
+10Yr Indian Govt Bond Variant 48,Commodities,1243.57,Low,4.26,0.82
+SBI Bluechip Fund Variant 48,Forex,76.75,Medium,6.18,0.07
+USDINR Variant 48,Commodities,639.47,Low,4.66,-0.98
+Oil Variant 48,Forex,62.19,Medium,9.91,-0.34
+SBI Bluechip Fund Variant 48,Stock,650.89,Low,3.73,-0.83
+USDINR Variant 48,MutualFund,574.53,High,16.78,-0.84
+HDFC Equity Fund Variant 48,Commodities,604.62,High,13.85,1.0
+Oil Variant 48,Commodities,928.48,High,17.18,0.08
+10Yr Indian Govt Bond Variant 48,Bond,1954.59,Medium,6.01,0.7
+Gold Variant 49,Crypto,1015551.78,Medium,6.93,0.79
+SBI Bluechip Fund Variant 49,Forex,53.63,Low,3.74,0.84
+SBI Bluechip Fund Variant 49,Forex,51.79,High,16.77,0.86
+Oil Variant 49,Bond,733.21,Low,4.84,0.22
+Gold Variant 49,MutualFund,1170.29,Medium,7.71,-0.48
+Tata Steel Variant 49,Forex,82.1,High,11.66,-0.74
+USDINR Variant 49,Stock,1967.82,High,11.22,0.84
+USDINR Variant 49,MutualFund,1680.85,High,12.65,-0.24
+10Yr Indian Govt Bond Variant 49,Forex,81.16,Low,4.24,-0.06
+Infosys Variant 49,Commodities,1203.17,Low,4.92,-0.11
+Tata Steel Variant 50,Bond,897.66,Low,2.29,0.33
+Oil Variant 50,MutualFund,1228.36,Low,2.17,-0.61
+Tata Steel Variant 50,Bond,584.46,Medium,6.09,-0.61
+Gold Variant 50,Forex,67.66,Medium,6.94,0.57
+Tata Steel Variant 50,Bond,1055.42,High,12.07,0.12
+Gold Variant 50,Stock,838.98,High,14.92,0.03
+Infosys Variant 50,Stock,1314.14,Low,4.71,-0.34
+USDINR Variant 50,MutualFund,1838.29,High,16.28,0.46
+Gold Variant 50,Forex,86.02,Medium,7.32,-0.35
+SBI Bluechip Fund Variant 50,Forex,70.03,Low,2.13,0.19
+JPYINR Variant 51,MutualFund,1370.28,Medium,8.06,-0.73
+SBI Bluechip Fund Variant 51,Bond,872.94,High,19.97,-0.63
+Infosys Variant 51,MutualFund,1634.52,High,19.6,-0.34
+Oil Variant 51,Commodities,1131.4,Low,2.0,-0.86
+USDINR Variant 51,Stock,1976.73,Medium,8.1,-0.3
+Tata Steel Variant 51,Crypto,1160777.66,Medium,9.31,0.52
+Tata Steel Variant 51,Bond,940.88,Medium,5.18,-0.15
+Oil Variant 51,Bond,1273.71,Medium,7.33,-0.26
+Infosys Variant 51,Forex,69.28,High,18.17,0.82
+Infosys Variant 51,Commodities,1927.44,Low,2.85,0.43
+Oil Variant 52,Commodities,1569.51,Medium,9.06,0.95
+JPYINR Variant 52,Crypto,2442790.81,Medium,5.95,0.08
+JPYINR Variant 52,MutualFund,1469.01,Medium,8.82,-0.94
+SBI Bluechip Fund Variant 52,Stock,1867.81,High,15.52,0.2
+Tata Steel Variant 52,Crypto,1927470.22,Low,2.14,0.5
+USDINR Variant 52,Forex,82.46,High,11.42,0.2
+Bitcoin Variant 52,Stock,1810.7,Medium,7.91,0.46
+10Yr Indian Govt Bond Variant 52,Bond,1751.1,Medium,8.67,0.84
+SBI Bluechip Fund Variant 52,Bond,970.85,Low,2.21,0.33
+Gold Variant 52,Forex,72.9,Medium,9.11,-0.91
+Bitcoin Variant 53,Forex,57.3,High,10.58,-0.69
+10Yr Indian Govt Bond Variant 53,Crypto,830629.84,Low,3.06,0.29
+JPYINR Variant 53,Commodities,1687.38,Low,4.62,-0.68
+Bitcoin Variant 53,Crypto,1818297.55,High,12.97,0.94
+Infosys Variant 53,Forex,54.25,High,12.76,0.95
+SBI Bluechip Fund Variant 53,Bond,1421.45,Low,3.54,-0.63
+Gold Variant 53,Forex,95.71,Medium,7.44,-0.8
+10Yr Indian Govt Bond Variant 53,MutualFund,888.58,Medium,8.13,-0.0
+Tata Steel Variant 53,Stock,1834.65,Low,4.06,0.7
+10Yr Indian Govt Bond Variant 53,MutualFund,746.95,High,16.58,-0.57
+Infosys Variant 54,Bond,737.37,Medium,9.93,0.31
+USDINR Variant 54,MutualFund,1033.68,Low,4.29,-0.2
+JPYINR Variant 54,Crypto,2153276.25,Low,3.19,0.9
+HDFC Equity Fund Variant 54,Crypto,2903065.81,Low,2.56,0.43
+SBI Bluechip Fund Variant 54,Forex,66.32,Medium,7.26,0.04
+SBI Bluechip Fund Variant 54,MutualFund,1518.59,Low,4.89,-0.84
+HDFC Equity Fund Variant 54,Commodities,1532.51,High,11.9,0.03
+SBI Bluechip Fund Variant 54,Crypto,2412746.02,Medium,8.79,-0.45
+SBI Bluechip Fund Variant 54,Bond,742.81,Medium,8.73,-0.3
+HDFC Equity Fund Variant 54,Crypto,654734.45,Medium,6.94,-0.74
+USDINR Variant 55,MutualFund,1863.21,Low,2.72,0.01
+JPYINR Variant 55,MutualFund,930.58,Low,3.0,0.69
+HDFC Equity Fund Variant 55,Commodities,993.72,High,10.6,0.7
+HDFC Equity Fund Variant 55,Stock,954.42,Low,2.08,-0.8
+USDINR Variant 55,Commodities,1750.65,Medium,9.2,-0.61
+SBI Bluechip Fund Variant 55,Crypto,547432.93,Low,4.5,-0.85
+Oil Variant 55,Forex,83.04,High,11.08,0.95
+Tata Steel Variant 55,Commodities,598.7,High,17.76,-0.56
+HDFC Equity Fund Variant 55,Bond,749.84,Medium,9.12,-0.73
+SBI Bluechip Fund Variant 55,MutualFund,512.89,Medium,7.53,-0.83
+10Yr Indian Govt Bond Variant 56,Crypto,685789.97,Medium,8.78,-0.99
+SBI Bluechip Fund Variant 56,Bond,862.03,Medium,8.01,-0.78
+USDINR Variant 56,Bond,1869.49,Medium,5.64,0.68
+10Yr Indian Govt Bond Variant 56,MutualFund,1216.88,Medium,8.6,0.56
+SBI Bluechip Fund Variant 56,Stock,1886.22,High,12.04,0.44
+Gold Variant 56,Forex,94.92,High,17.97,0.77
+USDINR Variant 56,Forex,93.35,High,15.35,-0.65
+Oil Variant 56,Crypto,2749530.83,High,16.98,-0.39
+Infosys Variant 56,Bond,1479.63,Medium,5.35,0.04
+Gold Variant 56,Commodities,1611.74,Medium,8.2,-0.35
+10Yr Indian Govt Bond Variant 57,Crypto,2972899.99,High,17.34,0.03
+SBI Bluechip Fund Variant 57,Crypto,1914691.31,Low,3.57,-0.34
+Tata Steel Variant 57,Forex,99.24,Low,4.08,0.03
+Infosys Variant 57,Crypto,2844028.72,Medium,6.13,0.59
+10Yr Indian Govt Bond Variant 57,MutualFund,1089.55,High,13.08,-0.96
+10Yr Indian Govt Bond Variant 57,Forex,84.5,Medium,5.52,0.66
+SBI Bluechip Fund Variant 57,Stock,1496.88,High,14.36,0.93
+Gold Variant 57,MutualFund,1538.44,Medium,9.89,0.58
+USDINR Variant 57,Bond,695.52,High,13.3,0.17
+Tata Steel Variant 57,Bond,630.29,High,15.95,0.61
+SBI Bluechip Fund Variant 58,Bond,786.22,High,17.86,0.4
+Tata Steel Variant 58,Crypto,2227580.61,Low,4.45,0.4
+Bitcoin Variant 58,MutualFund,1423.95,Low,2.4,-0.38
+Gold Variant 58,MutualFund,574.48,High,11.18,-0.84
+10Yr Indian Govt Bond Variant 58,Forex,93.56,High,19.37,0.71
+Oil Variant 58,Commodities,1854.81,High,15.12,-0.02
+10Yr Indian Govt Bond Variant 58,Stock,1459.41,High,12.27,0.37
+10Yr Indian Govt Bond Variant 58,Commodities,1950.68,Low,2.23,0.11
+Infosys Variant 58,Stock,1376.86,Medium,7.07,0.06
+JPYINR Variant 58,Bond,678.82,Medium,7.15,-0.01
+10Yr Indian Govt Bond Variant 59,Forex,83.89,Medium,9.5,-0.19
+Tata Steel Variant 59,Bond,897.83,Low,2.7,0.05
+Gold Variant 59,Commodities,1736.97,Medium,5.78,-0.36
+10Yr Indian Govt Bond Variant 59,Stock,1638.33,Medium,7.98,0.46
+Oil Variant 59,Crypto,984991.8,Low,3.65,-0.71
+Bitcoin Variant 59,Forex,85.4,Medium,6.29,-0.74
+SBI Bluechip Fund Variant 59,Crypto,2077437.19,Low,4.6,-0.28
+Infosys Variant 59,Stock,1642.91,Low,3.1,-0.01
+Infosys Variant 59,Bond,1777.98,Medium,8.24,0.65
+10Yr Indian Govt Bond Variant 59,Forex,77.81,High,16.59,-0.14
+Oil Variant 60,Stock,1365.78,High,19.96,0.99
+Tata Steel Variant 60,MutualFund,1788.85,Low,3.99,0.1
+Gold Variant 60,Commodities,1630.46,High,11.79,0.41
+SBI Bluechip Fund Variant 60,MutualFund,832.19,Medium,5.46,0.5
+10Yr Indian Govt Bond Variant 60,MutualFund,742.59,Low,4.08,0.63
+Infosys Variant 60,Stock,519.48,Medium,7.89,-0.71
+JPYINR Variant 60,MutualFund,1901.24,Medium,6.1,0.66
+Infosys Variant 60,Crypto,2686310.45,Low,3.14,0.82
+USDINR Variant 60,Bond,1677.05,Medium,6.14,0.21
+JPYINR Variant 60,Forex,74.61,Low,2.92,-0.44
+USDINR Variant 61,MutualFund,762.15,Medium,8.8,0.54
+Tata Steel Variant 61,Stock,609.83,Medium,5.77,0.71
+Gold Variant 61,Crypto,1705485.67,High,17.94,-0.08
+JPYINR Variant 61,Bond,920.76,Low,4.34,0.21
+SBI Bluechip Fund Variant 61,Crypto,805302.4,Medium,7.91,0.31
+Infosys Variant 61,Stock,1009.96,High,18.61,0.27
+Infosys Variant 61,Forex,77.44,Low,2.94,0.26
+Bitcoin Variant 61,Commodities,533.59,Medium,8.07,0.27
+Oil Variant 61,Forex,82.42,Medium,5.16,0.65
+USDINR Variant 61,Commodities,509.41,Medium,5.69,-0.32
+10Yr Indian Govt Bond Variant 62,Stock,1122.89,High,11.78,0.45
+Oil Variant 62,Bond,786.68,Medium,9.74,-0.54
+Tata Steel Variant 62,Bond,885.61,Low,4.99,0.61
+USDINR Variant 62,Forex,54.94,High,10.65,0.06
+Gold Variant 62,Bond,852.2,Medium,5.8,-0.03
+Gold Variant 62,Stock,1849.44,Medium,9.38,0.03
+10Yr Indian Govt Bond Variant 62,Commodities,959.4,Low,3.47,0.08
+Bitcoin Variant 62,Crypto,1877146.52,High,12.5,-0.58
+Tata Steel Variant 62,Commodities,778.19,High,17.81,0.11
+10Yr Indian Govt Bond Variant 62,Stock,508.8,Low,2.49,0.71
+USDINR Variant 63,MutualFund,1028.23,Low,3.7,-0.05
+Gold Variant 63,Stock,592.65,Low,4.13,0.77
+Tata Steel Variant 63,Stock,1859.8,Low,2.22,-0.1
+Oil Variant 63,Bond,541.81,Low,3.47,0.39
+Oil Variant 63,Stock,650.79,Low,3.01,-0.97
+Bitcoin Variant 63,Forex,64.91,Low,4.1,-0.1
+10Yr Indian Govt Bond Variant 63,MutualFund,1985.3,Medium,9.82,-0.95
+Tata Steel Variant 63,Forex,50.14,Low,4.5,-0.2
+Infosys Variant 63,Bond,1320.03,High,10.04,0.43
+SBI Bluechip Fund Variant 63,Bond,1026.68,High,11.47,0.56
+HDFC Equity Fund Variant 64,Stock,827.3,Medium,8.33,-0.77
+Gold Variant 64,Commodities,1209.02,Medium,6.39,0.8
+JPYINR Variant 64,Stock,577.72,Low,3.25,0.17
+Bitcoin Variant 64,Crypto,1639269.06,High,13.72,-0.48
+Bitcoin Variant 64,Commodities,955.43,High,11.52,0.47
+Tata Steel Variant 64,Bond,1201.23,High,18.29,-0.75
+USDINR Variant 64,MutualFund,1314.44,High,10.81,-0.75
+Oil Variant 64,Stock,1265.59,High,17.45,-0.37
+Oil Variant 64,Crypto,1527858.84,High,17.65,-0.24
+JPYINR Variant 64,Forex,60.08,High,14.98,0.21
+10Yr Indian Govt Bond Variant 65,Bond,863.43,High,16.79,0.95
+USDINR Variant 65,Crypto,955495.68,Medium,9.63,-0.08
+SBI Bluechip Fund Variant 65,Forex,70.21,Medium,9.34,0.42
+Bitcoin Variant 65,Forex,73.77,Low,3.58,-0.64
+Oil Variant 65,Crypto,2206826.75,Low,2.3,0.17
+Tata Steel Variant 65,Stock,1372.27,Low,3.66,-0.23
+Oil Variant 65,Stock,1667.52,High,12.11,-0.81
+Oil Variant 65,Commodities,1712.1,Low,2.09,0.23
+HDFC Equity Fund Variant 65,Crypto,2617613.56,Low,4.05,-0.81
+10Yr Indian Govt Bond Variant 65,Bond,1004.15,Medium,5.69,0.03
+Infosys Variant 66,Bond,721.56,Medium,8.09,-0.38
+Oil Variant 66,Bond,515.77,High,14.91,0.22
+HDFC Equity Fund Variant 66,Stock,1058.25,High,17.49,-0.24
+Infosys Variant 66,Bond,1248.78,Low,4.44,0.8
+Gold Variant 66,Forex,81.38,Medium,8.93,-0.39
+Gold Variant 66,Commodities,1040.71,Medium,5.3,0.23
+JPYINR Variant 66,Bond,1728.76,High,14.5,-0.06
+SBI Bluechip Fund Variant 66,Commodities,1648.22,High,10.8,-0.48
+HDFC Equity Fund Variant 66,Forex,94.39,Medium,6.22,-0.15
+Infosys Variant 66,Bond,1502.35,Medium,7.88,-0.41
+Infosys Variant 67,Commodities,845.04,Medium,8.93,0.23
+USDINR Variant 67,Bond,1532.72,High,17.24,0.92
+Gold Variant 67,Crypto,2958430.93,Medium,5.76,-0.63
+10Yr Indian Govt Bond Variant 67,Crypto,950775.46,Medium,9.56,0.02
+Tata Steel Variant 67,MutualFund,1267.15,Medium,7.6,-0.02
+JPYINR Variant 67,Bond,999.91,Low,4.42,0.66
+Gold Variant 67,Stock,671.33,Low,4.93,-0.45
+Infosys Variant 67,MutualFund,894.7,High,12.5,0.28
+USDINR Variant 67,Forex,96.99,Low,4.2,0.44
+JPYINR Variant 67,Bond,1120.33,Low,4.79,-0.93
+Bitcoin Variant 68,Bond,643.55,Low,4.0,0.48
+USDINR Variant 68,Commodities,790.24,High,12.61,0.12
+SBI Bluechip Fund Variant 68,Bond,1459.68,Medium,8.61,0.01
+Tata Steel Variant 68,MutualFund,1086.77,High,17.83,0.79
+HDFC Equity Fund Variant 68,Bond,1720.16,Low,3.59,0.21
+SBI Bluechip Fund Variant 68,Commodities,550.91,Low,3.54,0.08
+Oil Variant 68,Bond,534.51,High,13.85,0.79
+Infosys Variant 68,Bond,855.62,Low,4.5,-0.73
+JPYINR Variant 68,Stock,593.51,Low,4.79,-0.49
+USDINR Variant 68,Bond,1898.93,High,10.03,0.43
+SBI Bluechip Fund Variant 69,Stock,923.48,Medium,8.74,0.77
+USDINR Variant 69,Forex,98.77,High,14.8,-0.76
+Oil Variant 69,MutualFund,693.5,High,12.5,-0.19
+Infosys Variant 69,Bond,822.34,Low,4.98,0.6
+Infosys Variant 69,Forex,73.89,High,17.28,0.51
+SBI Bluechip Fund Variant 69,Forex,78.37,Medium,5.5,0.2
+Tata Steel Variant 69,Forex,89.77,Low,3.23,-0.62
+SBI Bluechip Fund Variant 69,Stock,865.82,Medium,5.03,-0.32
+HDFC Equity Fund Variant 69,Bond,586.54,Low,3.47,0.11
+Infosys Variant 69,Commodities,1526.02,High,14.96,-0.08
+Oil Variant 70,Forex,94.81,Medium,6.84,0.83
+Oil Variant 70,Forex,69.46,Low,4.45,0.32
+Tata Steel Variant 70,Crypto,1610772.27,High,11.55,0.16
+10Yr Indian Govt Bond Variant 70,Bond,1153.04,High,14.41,0.48
+10Yr Indian Govt Bond Variant 70,Crypto,1894306.53,High,14.28,0.36
+JPYINR Variant 70,Crypto,1607252.75,High,14.86,-0.39
+Bitcoin Variant 70,Commodities,1746.65,Low,4.96,-0.14
+Gold Variant 70,Stock,728.11,Low,4.32,-0.2
+Bitcoin Variant 70,Bond,1083.16,Low,4.11,-0.99
+Infosys Variant 70,MutualFund,1952.35,Medium,6.62,-0.11
+JPYINR Variant 71,Forex,79.91,High,18.87,-0.65
+10Yr Indian Govt Bond Variant 71,Crypto,1928281.05,High,16.25,0.24
+Gold Variant 71,Forex,50.49,Low,4.05,0.4
+Bitcoin Variant 71,Crypto,591064.88,Low,2.79,-0.15
+SBI Bluechip Fund Variant 71,MutualFund,668.95,Medium,7.11,-0.14
+Bitcoin Variant 71,Bond,1337.63,High,11.2,-0.01
+HDFC Equity Fund Variant 71,Forex,56.95,Medium,8.43,-0.38
+Tata Steel Variant 71,Stock,1406.38,High,18.47,0.97
+Tata Steel Variant 71,Commodities,1959.3,Medium,9.87,0.78
+JPYINR Variant 71,Commodities,1049.23,High,13.08,0.64
+HDFC Equity Fund Variant 72,Stock,570.16,Low,4.07,-0.67
+Gold Variant 72,Commodities,1598.19,Medium,8.66,0.86
+HDFC Equity Fund Variant 72,MutualFund,1922.41,Low,2.68,-0.05
+HDFC Equity Fund Variant 72,Stock,1548.26,Medium,6.88,-0.91
+USDINR Variant 72,Forex,96.92,High,17.23,0.42
+HDFC Equity Fund Variant 72,MutualFund,1726.09,Medium,9.97,-0.15
+Infosys Variant 72,Commodities,1129.15,Low,4.67,0.36
+10Yr Indian Govt Bond Variant 72,Stock,1716.31,Low,2.35,-0.42
+Bitcoin Variant 72,Forex,92.93,High,17.14,0.83
+Infosys Variant 72,MutualFund,1736.66,Medium,8.63,0.74
+USDINR Variant 73,MutualFund,1163.24,High,18.83,0.37
+10Yr Indian Govt Bond Variant 73,MutualFund,1724.82,Medium,6.49,-0.61
+Infosys Variant 73,MutualFund,1702.32,Low,3.43,-0.07
+HDFC Equity Fund Variant 73,Forex,63.66,Medium,5.01,-0.34
+Bitcoin Variant 73,Stock,1661.32,Medium,7.39,-0.35
+Infosys Variant 73,Bond,1992.9,High,19.32,-0.73
+Tata Steel Variant 73,Bond,1491.65,High,14.5,-0.5
+Bitcoin Variant 73,Bond,1677.39,Low,4.27,-0.8
+Tata Steel Variant 73,Bond,1536.05,Low,3.98,-0.9
+10Yr Indian Govt Bond Variant 73,MutualFund,1446.03,High,14.46,-0.32
+Tata Steel Variant 74,Crypto,1738364.41,Low,3.57,0.14
+SBI Bluechip Fund Variant 74,Crypto,1535558.4,Low,2.75,-0.92
+USDINR Variant 74,Bond,1445.39,Medium,5.89,0.88
+Bitcoin Variant 74,Bond,1727.95,Low,3.48,0.97
+JPYINR Variant 74,Crypto,2260606.72,Medium,8.27,0.99
+Infosys Variant 74,Crypto,2242406.43,Medium,5.72,0.9
+SBI Bluechip Fund Variant 74,MutualFund,1757.15,Medium,5.69,-0.2
+SBI Bluechip Fund Variant 74,MutualFund,746.84,High,12.69,-0.09
+Infosys Variant 74,Stock,1338.93,High,17.25,0.72
+Gold Variant 74,Bond,1204.08,Medium,9.21,-0.23
+JPYINR Variant 75,Crypto,2882605.0,Medium,7.08,0.32
+Tata Steel Variant 75,Commodities,541.8,Low,3.47,0.9
+Bitcoin Variant 75,Stock,644.84,Low,4.12,-0.12
+Tata Steel Variant 75,Stock,1018.85,High,15.92,-0.04
+Tata Steel Variant 75,Stock,1924.54,High,12.31,0.22
+Infosys Variant 75,MutualFund,984.84,Low,4.53,-0.31
+USDINR Variant 75,Commodities,742.56,Medium,7.87,0.72
+Tata Steel Variant 75,Crypto,623902.58,Low,3.69,0.33
+Infosys Variant 75,MutualFund,1889.37,High,15.9,0.35
+Infosys Variant 75,Stock,1691.26,Medium,6.93,-0.8
+HDFC Equity Fund Variant 76,MutualFund,988.95,Medium,9.15,-0.54
+10Yr Indian Govt Bond Variant 76,Commodities,908.99,Low,3.94,-0.46
+HDFC Equity Fund Variant 76,Commodities,1584.09,Medium,8.1,-0.54
+Bitcoin Variant 76,Bond,1876.67,Low,4.9,-0.27
+HDFC Equity Fund Variant 76,Forex,97.46,High,15.91,0.71
+SBI Bluechip Fund Variant 76,Forex,55.85,High,11.31,0.8
+Bitcoin Variant 76,MutualFund,1093.08,Medium,5.76,-0.29
+SBI Bluechip Fund Variant 76,MutualFund,952.04,Medium,5.66,-0.21
+Tata Steel Variant 76,Crypto,2994995.63,Medium,9.15,-0.8
+10Yr Indian Govt Bond Variant 76,Commodities,1532.82,Medium,7.5,-0.56
+Infosys Variant 77,Bond,642.25,Medium,8.4,-0.35
+USDINR Variant 77,Bond,1178.91,Medium,5.78,0.4
+Oil Variant 77,Bond,1546.58,High,13.79,-0.21
+Gold Variant 77,MutualFund,1619.12,High,19.31,0.34
+Gold Variant 77,Bond,591.37,High,18.46,-0.45
+USDINR Variant 77,Crypto,2828530.97,High,16.19,0.13
+Gold Variant 77,Commodities,1010.98,Medium,6.71,-0.89
+SBI Bluechip Fund Variant 77,MutualFund,1591.39,Medium,7.89,0.39
+JPYINR Variant 77,Stock,805.57,Medium,6.22,-0.71
+Bitcoin Variant 77,Forex,61.31,Low,4.07,-0.55
+10Yr Indian Govt Bond Variant 78,MutualFund,1756.21,Low,2.94,0.43
+HDFC Equity Fund Variant 78,Commodities,677.09,Medium,6.19,0.94
+Gold Variant 78,Commodities,1246.27,Medium,9.63,-0.13
+10Yr Indian Govt Bond Variant 78,Commodities,1018.63,Low,2.84,-0.0
+10Yr Indian Govt Bond Variant 78,Crypto,1229127.04,High,16.65,0.89
+JPYINR Variant 78,Commodities,864.16,Medium,9.0,0.69
+Gold Variant 78,Bond,1459.98,Low,4.05,-0.94
+SBI Bluechip Fund Variant 78,Commodities,1342.85,Medium,9.93,0.68
+10Yr Indian Govt Bond Variant 78,Stock,823.28,Low,4.09,0.53
+Oil Variant 78,Commodities,1950.21,Low,4.97,0.99
+SBI Bluechip Fund Variant 79,Forex,51.51,High,14.48,-0.01
+USDINR Variant 79,Commodities,1222.69,High,11.77,0.06
+Bitcoin Variant 79,Bond,1234.79,Low,4.5,-0.69
+JPYINR Variant 79,Forex,63.81,Low,4.71,0.33
+Gold Variant 79,MutualFund,1452.04,Medium,7.51,0.75
+Infosys Variant 79,Stock,1520.53,High,14.73,-0.79
+JPYINR Variant 79,Commodities,1956.04,Medium,5.57,0.62
+USDINR Variant 79,Crypto,2419946.72,High,11.16,-0.57
+Tata Steel Variant 79,Crypto,2459009.66,Low,2.32,0.31
+HDFC Equity Fund Variant 79,Stock,1362.31,Low,2.68,-0.15
+USDINR Variant 80,Stock,1318.74,Medium,6.05,-0.41
+10Yr Indian Govt Bond Variant 80,Commodities,1245.17,High,10.78,-0.57
+Bitcoin Variant 80,Crypto,1213586.42,Low,2.54,0.99
+Oil Variant 80,Commodities,898.21,High,14.27,-0.25
+Infosys Variant 80,Forex,50.94,Low,4.46,-0.81
+Tata Steel Variant 80,Commodities,666.18,Medium,7.86,-0.73
+Infosys Variant 80,Bond,1417.78,Medium,5.99,-0.85
+Infosys Variant 80,Forex,50.44,Medium,8.49,-0.11
+JPYINR Variant 80,Commodities,697.58,High,18.18,0.24
+HDFC Equity Fund Variant 80,Forex,75.56,High,16.8,-0.27
+Tata Steel Variant 81,Commodities,1391.88,Low,4.77,0.21
+USDINR Variant 81,Forex,93.05,Medium,7.78,0.69
+Tata Steel Variant 81,Forex,66.51,Medium,5.32,0.33
+Infosys Variant 81,Stock,1041.42,Low,3.53,-0.65
+Bitcoin Variant 81,Commodities,652.32,Medium,5.54,-0.92
+10Yr Indian Govt Bond Variant 81,Bond,1750.46,High,18.64,0.78
+Gold Variant 81,Crypto,1165750.46,High,16.39,0.64
+USDINR Variant 81,Crypto,509551.37,High,12.56,-0.93
+USDINR Variant 81,Crypto,1786534.71,Medium,5.69,-0.66
+HDFC Equity Fund Variant 81,Crypto,2390406.32,High,15.57,-0.87
+USDINR Variant 82,Bond,1961.56,Low,4.03,0.79
+SBI Bluechip Fund Variant 82,Crypto,1877896.8,Medium,7.47,-0.95
+USDINR Variant 82,Bond,1957.93,Low,3.15,-0.07
+Tata Steel Variant 82,Stock,1764.94,Medium,5.94,0.17
+Oil Variant 82,Forex,58.75,Low,2.89,0.13
+USDINR Variant 82,Forex,57.34,Medium,8.4,0.63
+USDINR Variant 82,MutualFund,673.06,High,11.5,-0.78
+USDINR Variant 82,Bond,1610.38,High,11.46,-0.6
+10Yr Indian Govt Bond Variant 82,Commodities,1300.17,Medium,9.74,-0.92
+Oil Variant 82,Bond,1365.8,High,18.99,-0.05
+10Yr Indian Govt Bond Variant 83,Crypto,2665500.69,High,17.49,-0.01
+Tata Steel Variant 83,Stock,1835.72,Low,3.27,-0.99
+Gold Variant 83,MutualFund,1820.74,Low,4.54,0.93
+Infosys Variant 83,Bond,642.12,Low,4.17,0.96
+USDINR Variant 83,Forex,60.57,Medium,5.55,0.48
+Tata Steel Variant 83,Forex,84.37,Medium,8.64,-0.97
+Bitcoin Variant 83,Crypto,1490077.4,Low,4.5,0.66
+10Yr Indian Govt Bond Variant 83,Stock,848.56,Medium,6.32,0.81
+Bitcoin Variant 83,Stock,1480.42,Low,3.62,-0.45
+SBI Bluechip Fund Variant 83,MutualFund,926.19,Low,4.66,0.1
+SBI Bluechip Fund Variant 84,Crypto,1010654.14,Low,4.72,-0.04
+USDINR Variant 84,MutualFund,1691.87,High,15.88,-0.57
+HDFC Equity Fund Variant 84,Forex,78.02,High,19.82,0.65
+SBI Bluechip Fund Variant 84,Crypto,1522145.54,High,18.84,0.37
+SBI Bluechip Fund Variant 84,Stock,866.84,Low,2.26,-0.17
+Tata Steel Variant 84,Forex,84.62,Medium,5.02,-0.66
+Infosys Variant 84,Forex,65.67,Low,2.39,0.75
+JPYINR Variant 84,Forex,80.74,Medium,9.88,0.8
+Oil Variant 84,Bond,843.69,High,19.72,0.86
+HDFC Equity Fund Variant 84,Crypto,2030196.79,Low,2.46,-0.08
+Bitcoin Variant 85,Bond,1197.37,High,17.56,-0.93
+Infosys Variant 85,MutualFund,753.65,Medium,5.28,0.02
+HDFC Equity Fund Variant 85,Forex,59.78,Low,2.05,0.98
+Infosys Variant 85,Crypto,2110836.83,Medium,9.64,0.39
+Infosys Variant 85,Crypto,2670976.5,Medium,6.58,-0.42
+Gold Variant 85,Forex,78.74,Low,3.29,-0.44
+USDINR Variant 85,Stock,1056.22,High,15.73,-0.28
+USDINR Variant 85,MutualFund,1206.81,High,15.63,-0.96
+SBI Bluechip Fund Variant 85,MutualFund,972.27,Medium,8.61,0.01
+JPYINR Variant 85,MutualFund,574.25,High,12.27,-0.9
+JPYINR Variant 86,Crypto,1697760.46,Low,2.14,0.71
+HDFC Equity Fund Variant 86,MutualFund,1090.4,High,11.64,0.31
+Oil Variant 86,MutualFund,1784.36,Low,3.43,0.19
+SBI Bluechip Fund Variant 86,Commodities,1193.51,Medium,5.12,-0.02
+JPYINR Variant 86,Stock,1183.83,Low,4.07,-0.41
+USDINR Variant 86,Commodities,1852.11,Low,4.23,-0.14
+Bitcoin Variant 86,Bond,973.39,Medium,9.85,-0.58
+Tata Steel Variant 86,Forex,82.61,High,15.47,0.7
+Bitcoin Variant 86,Forex,53.44,Medium,6.63,0.0
+JPYINR Variant 86,Bond,1086.1,Low,4.89,-0.31
+Gold Variant 87,MutualFund,1912.33,Low,3.53,-0.2
+SBI Bluechip Fund Variant 87,Stock,1207.59,High,14.58,-0.86
+Oil Variant 87,Forex,79.06,Low,3.82,-1.0
+JPYINR Variant 87,Crypto,2850296.26,Low,2.08,-0.54
+HDFC Equity Fund Variant 87,Stock,688.95,Low,3.67,0.16
+HDFC Equity Fund Variant 87,Forex,83.33,Medium,6.11,0.45
+JPYINR Variant 87,Bond,681.5,Low,3.86,-0.38
+Tata Steel Variant 87,Stock,1311.48,High,18.73,0.68
+USDINR Variant 87,Commodities,861.55,Low,3.58,0.92
+USDINR Variant 87,MutualFund,1093.71,High,18.9,0.56
+Bitcoin Variant 88,Stock,590.96,Low,4.97,-0.99
+JPYINR Variant 88,Bond,722.34,Low,3.57,-0.12
+USDINR Variant 88,Bond,1448.34,Medium,5.06,-0.19
+Gold Variant 88,Commodities,1536.91,Low,2.06,-0.56
+Bitcoin Variant 88,MutualFund,1859.72,High,13.79,0.38
+Bitcoin Variant 88,Commodities,692.76,High,12.76,0.57
+JPYINR Variant 88,Forex,83.73,Low,4.27,0.46
+USDINR Variant 88,Commodities,976.44,Low,2.4,-0.32
+JPYINR Variant 88,Bond,1291.78,Low,3.84,-0.7
+HDFC Equity Fund Variant 88,Commodities,1105.88,High,17.2,0.65
+Gold Variant 89,MutualFund,1690.44,Medium,5.06,0.45
+Oil Variant 89,Stock,1325.11,Medium,8.42,0.15
+Tata Steel Variant 89,MutualFund,1079.65,Low,4.91,-0.33
+10Yr Indian Govt Bond Variant 89,Crypto,950078.5,Low,4.77,0.28
+Gold Variant 89,Forex,73.49,Medium,8.07,-0.23
+Oil Variant 89,Bond,614.25,Low,4.76,-0.41
+Oil Variant 89,Bond,1194.44,Medium,9.13,0.1
+Gold Variant 89,Bond,1188.13,Medium,6.38,-0.55
+10Yr Indian Govt Bond Variant 89,MutualFund,786.84,Medium,6.3,0.76
+10Yr Indian Govt Bond Variant 89,MutualFund,1284.19,Low,2.31,0.13
+Gold Variant 90,Forex,55.2,Low,4.58,0.3
+HDFC Equity Fund Variant 90,Bond,1937.95,Low,4.79,-0.23
+Bitcoin Variant 90,Forex,87.01,High,15.6,0.56
+HDFC Equity Fund Variant 90,Stock,874.38,High,18.19,-0.38
+Oil Variant 90,Stock,990.95,High,17.07,0.65
+Oil Variant 90,Bond,1879.44,Low,2.71,-0.02
+JPYINR Variant 90,Commodities,1878.01,Medium,9.86,0.51
+SBI Bluechip Fund Variant 90,Crypto,656104.96,Low,3.49,-0.88
+HDFC Equity Fund Variant 90,MutualFund,1277.76,High,17.44,-0.08
+Gold Variant 90,Stock,563.21,High,14.85,-0.92
+Gold Variant 91,Bond,572.23,High,10.83,0.76
+10Yr Indian Govt Bond Variant 91,MutualFund,1911.93,Medium,5.96,0.06
+Tata Steel Variant 91,Crypto,936902.99,Low,4.83,-0.56
+Infosys Variant 91,Stock,1732.29,High,15.83,-0.26
+Infosys Variant 91,Stock,1764.89,Medium,6.2,-0.85
+Oil Variant 91,Bond,1193.57,High,18.35,-0.24
+Tata Steel Variant 91,Stock,1961.65,Low,2.99,0.81
+SBI Bluechip Fund Variant 91,MutualFund,1632.54,High,11.26,-0.38
+Bitcoin Variant 91,Crypto,1910185.53,High,19.12,0.62
+Bitcoin Variant 91,Bond,1730.05,Medium,7.35,-0.93
+HDFC Equity Fund Variant 92,Crypto,527200.7,High,14.46,0.04
+Bitcoin Variant 92,Commodities,1398.09,High,19.54,-0.49
+Gold Variant 92,Stock,1796.64,Medium,8.81,-0.02
+Bitcoin Variant 92,Commodities,1709.81,Medium,6.85,-0.58
+Oil Variant 92,Forex,75.37,Medium,8.77,-0.54
+Bitcoin Variant 92,Forex,97.2,Medium,7.06,-0.98
+Infosys Variant 92,Stock,667.36,High,13.59,-0.09
+Gold Variant 92,Bond,1664.44,Medium,9.58,-0.23
+Gold Variant 92,MutualFund,1928.2,High,17.42,0.54
+10Yr Indian Govt Bond Variant 92,Stock,1840.45,High,13.87,-0.1
+Infosys Variant 93,Commodities,1916.21,High,19.76,0.07
+Infosys Variant 93,Forex,71.18,Low,3.91,0.43
+HDFC Equity Fund Variant 93,Commodities,1091.37,Medium,9.21,-0.36
+Gold Variant 93,Crypto,953374.17,Low,3.2,0.3
+10Yr Indian Govt Bond Variant 93,Bond,1406.99,High,13.36,0.95
+Infosys Variant 93,Crypto,1582844.16,High,16.85,0.19
+Tata Steel Variant 93,Stock,1985.79,High,10.84,-0.63
+USDINR Variant 93,Commodities,702.92,Low,4.55,0.27
+Gold Variant 93,Bond,1115.98,High,13.88,-0.99
+Bitcoin Variant 93,Commodities,595.82,Low,4.94,-0.61
+10Yr Indian Govt Bond Variant 94,Commodities,622.76,Low,4.53,0.23
+10Yr Indian Govt Bond Variant 94,MutualFund,1506.04,Medium,6.93,0.82
+HDFC Equity Fund Variant 94,Crypto,1042105.76,Low,3.27,0.92
+SBI Bluechip Fund Variant 94,Forex,53.2,High,17.88,0.17
+Bitcoin Variant 94,Commodities,1507.49,Medium,9.26,0.48
+Gold Variant 94,Bond,1358.54,Medium,6.46,-0.71
+Oil Variant 94,Stock,1337.2,Medium,9.88,-0.45
+USDINR Variant 94,Forex,67.22,High,12.3,0.03
+HDFC Equity Fund Variant 94,Crypto,2630801.93,Low,2.39,-0.1
+USDINR Variant 94,Stock,1528.14,Low,4.16,0.67
+Oil Variant 95,Forex,82.39,Medium,8.27,0.42
+SBI Bluechip Fund Variant 95,Bond,990.74,High,15.14,0.17
+USDINR Variant 95,Forex,98.88,High,15.39,-0.08
+Gold Variant 95,Commodities,947.53,Medium,5.2,-0.17
+Gold Variant 95,Commodities,1373.47,Medium,5.46,-0.41
+Gold Variant 95,Commodities,1530.0,Low,2.92,0.78
+HDFC Equity Fund Variant 95,Forex,67.5,High,10.56,0.66
+Infosys Variant 95,MutualFund,1964.22,High,12.65,-0.86
+Gold Variant 95,Crypto,2970869.01,Medium,8.13,0.36
+10Yr Indian Govt Bond Variant 95,MutualFund,1697.99,High,13.9,0.69
+Tata Steel Variant 96,Crypto,751834.76,Medium,8.86,0.06
+Infosys Variant 96,Stock,1224.86,Low,2.21,-0.79
+Gold Variant 96,Crypto,795558.07,Medium,6.05,-0.84
+Oil Variant 96,Forex,65.02,Low,4.37,-0.29
+Gold Variant 96,Forex,60.72,High,14.06,0.89
+Bitcoin Variant 96,Bond,949.01,Low,2.08,-0.2
+JPYINR Variant 96,Crypto,2195392.55,Medium,8.21,-0.59
+JPYINR Variant 96,Bond,1845.79,Low,3.59,-0.68
+Bitcoin Variant 96,Forex,83.29,High,13.09,0.94
+Infosys Variant 96,Stock,781.07,Medium,6.92,-0.42
+Oil Variant 97,Crypto,564549.45,High,10.39,0.22
+10Yr Indian Govt Bond Variant 97,Commodities,982.91,Medium,8.51,-0.49
+JPYINR Variant 97,Commodities,959.37,High,15.1,0.73
+Oil Variant 97,Forex,99.79,Medium,8.74,0.31
+JPYINR Variant 97,Forex,91.34,High,19.42,0.18
+Tata Steel Variant 97,MutualFund,1058.93,High,19.25,-0.08
+Bitcoin Variant 97,Stock,1406.2,High,19.5,0.29
+Gold Variant 97,Stock,1968.85,High,11.83,-0.15
+Tata Steel Variant 97,MutualFund,1458.29,Low,3.18,0.76
+USDINR Variant 97,Crypto,2494341.46,Low,4.2,0.25
+USDINR Variant 98,Bond,1908.25,High,12.83,-0.14
+Bitcoin Variant 98,Forex,98.67,Medium,9.98,-0.03
+Infosys Variant 98,Crypto,2714240.79,High,16.81,-0.67
+SBI Bluechip Fund Variant 98,Forex,53.5,Low,4.27,0.74
+Infosys Variant 98,Crypto,1241523.53,Low,3.96,0.44
+10Yr Indian Govt Bond Variant 98,MutualFund,767.84,Low,2.2,-0.63
+Tata Steel Variant 98,Crypto,2593860.54,High,17.58,-0.97
+Bitcoin Variant 98,MutualFund,1243.68,Medium,7.8,0.94
+Gold Variant 98,Forex,59.92,Medium,8.29,-0.19
+Tata Steel Variant 98,Forex,67.51,High,10.54,0.32
+JPYINR Variant 99,MutualFund,1992.52,Medium,5.87,-0.07
+10Yr Indian Govt Bond Variant 99,Stock,1279.23,Low,3.91,-0.18
+Gold Variant 99,Bond,1580.43,Medium,5.98,0.75
+Oil Variant 99,Bond,1131.31,Medium,9.56,0.32
+JPYINR Variant 99,MutualFund,1964.85,Medium,7.52,-0.36
+SBI Bluechip Fund Variant 99,Bond,1160.56,Medium,9.71,-0.45
+Gold Variant 99,MutualFund,1048.2,High,10.86,0.12
+JPYINR Variant 99,Stock,1421.01,High,15.81,0.36
+10Yr Indian Govt Bond Variant 99,MutualFund,1863.22,High,12.83,-0.98
+Bitcoin Variant 99,Bond,1513.54,Medium,9.63,-0.29
