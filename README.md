@@ -24,5 +24,4 @@
 - **Data Structures**: Graphs, AVL Trees
 - **Algorithm**: Sorting, Tree Balancing, Graph Traversal
 
-# **License**
-This project is open-sourced under the MIT license.
+
